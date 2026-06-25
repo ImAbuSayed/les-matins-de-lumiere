@@ -1,1 +1,91 @@
-[Clean lyric will be pushed here]
+lyrics = """
+Viens te perdre avec moi quand la ville s'éteint
+Let's drive into the night, jusqu'au petit matin
+Ton parfum sur ma peau devient mon seul repère
+Ensemble on plongera dans les matins de lumière
+Champagne glacé, on navigue sur la Seine
+T'es la reine de la nuit, et tu m'entraînes
+Dans ce club VIP, je ne vois que tes yeux
+Un jeu de séduction, on enflamme les cieux
+Laisse le rythme monter, la basse résonner
+C'est la fièvre du soir, laisse-toi frissonner
+Danse pour moi, ce soir laisse-toi faire
+Sous les étoiles de minuit, plus rien à taire
+You're my only desire, ma passion première
+On s'aime à la folie, dans les matins de lumière
+Costume sur mesure, je t'emmène à Paris
+Je veux t'offrir le monde, tout ce dont tu as envie
+Ta main posée sur moi, dans le noir de la night
+Un sourire de ta part, and everything is right
+On accélère le tempo, le monde disparaît
+Dans le reflet des phares, je sais que tu me plais
+Danse pour moi, ce soir laisse-toi faire
+Sous les étoiles de minuit, plus rien à taire
+You're my only desire, ma passion première
+On s'aime à la folie, dans les matins de lumière
+Le vent sur ton visage, le long des avenues
+On a quitté la piste, pour un lieu inconnu
+Ton corps contre le mien, une douce symphonie
+Dans ce rêve envoûtant, tu embellis ma nuit
+Les battements de mon cœur s'accordent à tes pas
+Ne dis plus un seul mot, viens danser dans mes bras
+Danse pour moi, ce soir laisse-toi faire
+Sous les étoiles de minuit, plus rien à taire
+You're my only desire, ma passion première
+On s'aime à la folie, dans les matins de lumière
+Come closer to me, let the energy flow
+We're burning so bright, caught up in the glow
+Yeah, it's Sayed here, completely mesmerized
+I see my whole future right there in your eyes
+The music is fading, but we're going strong
+With you in my arms is where I belong
+Danse pour moi, ce soir laisse-toi faire
+Sous les étoiles de minuit, plus rien à taire
+You're my only desire, ma passion première
+On s'aime à la folie, dans les matins de lumière"""
+with open("lyric-raw.txt", "w") as f:
+f.write.. lyrics..
+Viens te perdre avec moi quand la ville s'éteint
+Let's drive into the night, jusqu'au petit matin
+Ton parfum sur ma peau devient mon seul repère
+Ensemble on plongera dans les matins de lumière
+Champagne glacé, on navigue sur la Seine
+T'es la reine de la nuit, et tu m'entraînes
+Dans ce club VIP, je ne vois que tes yeux
+Un jeu de séduction, on enflamme les cieux
+Laisse le rythme monter, la basse résonner
+C'est la fièvre du soir, laisse-toi frissonner
+Danse pour moi, ce soir laisse-toi faire
+Sous les étoiles de minuit, plus rien à taire
+You're my only desire, ma passion première
+On s'aime à la folie, dans les matins de lumière
+Costume sur mesure, je t'emmène à Paris
+Je veux t'offrir le monde, tout ce dont tu as envie
+Ta main posée sur moi, dans le noir de la night
+Un sourire de ta part, and everything is right
+On accélère le tempo, le monde disparaît
+Dans le reflet des phares, je sais que tu me plais
+Danse pour moi, ce soir laisse-toi faire
+Sous les étoiles de minuit, plus rien à taire
+You're my only desire, ma passion première
+On s'aime à la folie, dans les matins de lumière
+Le vent sur ton visage, le long des avenues
+On a quitté la piste, pour un lieu inconnu
+Ton corps contre le mien, une douce symphonie
+Dans ce rêve envoûtant, tu embellis ma nuit
+Les battements de mon cœur s'accordent à tes pas
+Ne dis plus un seul mot, viens danser dans mes bras
+Danse pour moi, ce soir laisse-toi faire
+Sous les étoiles de minuit, plus rien à taire
+You're my only desire, ma passion première
+On s'aime à la folie, dans les matins de lumière
+Come closer to me, let the energy flow
+We're burning so bright, caught up in the glow
+Yeah, it's Sayed here, completely mesmerized
+I see my whole future right there in your eyes
+The music is fading, but we're going strong
+With you in my arms is where I belong
+Danse pour moi, ce soir laisse-toi faire
+Sous les étoiles de minuit, plus rien à taire
+You're my only desire, ma passion première
+On s'aime à la folie, dans les matins de lumière
