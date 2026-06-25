@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> lyrics = """
+> Viens te perdre avec moi quand la ville s'éteint
+> Let's drive into the night, jusqu'au petit matin
+> Ton parfum sur ma peau devient mon seul repère
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
